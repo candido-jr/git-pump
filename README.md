@@ -1,4 +1,5 @@
-# Balancing Your Git Contribution History <a name="introduction"></a>
+<a name="introduction" ></a>
+# Balancing Your Git Contribution History
 
 Do you find your GitHub (or other git repository) contribution history uneven, with streaks of intense activity followed by long gaps?  
 This happens to many of us: sometimes we have the inspiration and time to work on our projects, while other times life gets in the way. Unfortunately, this can make your contributions history look inconsistent, even if you've made substantial progress in bursts.
@@ -15,7 +16,8 @@ This script helps you smooth out your Git contribution history by ensuring your 
 
 ---
 
-## How It Works <a name="how-it-works"></a>
+<a name="how-it-works"></a>
+## How It Works
 
 This script helps you smooth out your Git contribution history by:
 
@@ -32,13 +34,15 @@ This process can be repeated as needed to maintain a consistent contribution tim
 
 ---
 
-## Illustration <a name="illustration"></a>
+<a name="illustration"></a>
+## Illustration
  
-![GIF](https://github.com/candido-jr/git-pump/assets/git-pump.gif)
+<img src="https://raw.githubusercontent.com/candido-jr/git-pump/refs/heads/main/assets/git-pump.gif" alt="GIF" width="512" height="384">
 
 ---
 
-## Usage <a name="usage"></a>
+<a id="usage"></a>
+## Usage
 
 Follow these steps to use the script:
 
